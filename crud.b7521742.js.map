@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,MAAM,kCACHC,MAAKC,GAAOA,EAAIC,SAChBF,KAAKG,QAAQC","sources":["src/js/CRUD/read.js"],"sourcesContent":["fetch('http://localhost:3000/comics/2')\n  .then(res => res.json())\n  .then(console.log);\n"],"names":["fetch","then","res","json","console","log"],"version":3,"file":"crud.b7521742.js.map"}
