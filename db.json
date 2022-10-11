@@ -1,0 +1,39 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "title": "Superman",
+      "author": "DC-Comics",
+      "rating": 7.9,
+      "genres": ["fantastic"]
+    },
+    {
+      "id": 2,
+      "title": "Batman",
+      "author": "DC-Comics",
+      "rating": 8.5,
+      "genres": ["fantastic", "horror"]
+    },
+    {
+      "id": 3,
+      "title": "Deadpool",
+      "author": "Marvel",
+      "rating": 9.1,
+      "genres": ["comedy", "adventures"]
+    },
+    {
+      "id": 4,
+      "title": "Avengers",
+      "author": "Marvel",
+      "rating": 9.8,
+      "genres": ["drama", "adventures", "fantastic"]
+    },
+    {
+      "id": 5,
+      "title": "Ironman",
+      "author": "Marvel",
+      "rating": 8.8,
+      "genres": ["comedy", "adventures", "fantastic"]
+    }
+  ]
+}
